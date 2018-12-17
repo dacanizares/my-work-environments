@@ -1,0 +1,12 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "vscode-icon-theme",
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {
+        "editor.background": "#f3f3f3",
+        "sideBar.background": "#eee",
+        "terminal.background": "#e6e6e6"
+    },
+    "files.hotExit": "off",
+    "workbench.colorTheme": "Visual Studio Light"
+}
