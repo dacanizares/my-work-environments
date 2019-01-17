@@ -18,7 +18,7 @@
 
   * Disable *editor mini-map*.
 
-## Some Extensions that I use
+## Some Extensions that I installed
 
 * [Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 * [.Net Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
