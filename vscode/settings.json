@@ -8,5 +8,6 @@
         "terminal.background": "#e6e6e6"
     },
     "files.hotExit": "off",
-    "workbench.colorTheme": "Visual Studio Light"
+    "workbench.colorTheme": "Visual Studio Light",
+    "glassit.alpha": 230
 }
