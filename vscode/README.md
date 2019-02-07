@@ -1,10 +1,12 @@
 # VSCode environment config
 
-> Here is the custom configuration that I use on VSCode.
+> Here is the custom configuration that I'm using on VSCode.
 
 ## Custom Settings
 
 * Recommended: install the extension [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme).
+
+* Recommended: install the extension [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit).
 
 * Press *ctrl + shift + p* (or *f1*)  and search for the option *Open Settings (JSON)*
 
@@ -18,11 +20,12 @@
 
   * Disable *editor mini-map*.
 
-## Some Extensions that I installed
+## Some Extensions that I've installed
 
 * [Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 * [.Net Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 * [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme)
+* [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 * [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
