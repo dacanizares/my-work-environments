@@ -3,5 +3,6 @@
     "workbench.iconTheme": "vscode-icon-theme",
     "editor.minimap.enabled": false,
     "files.hotExit": "off",
-    "workbench.colorTheme": "Visual Studio Dark"
+    "workbench.colorTheme": "Visual Studio Dark",
+    "glassit.alpha": 230
 }
