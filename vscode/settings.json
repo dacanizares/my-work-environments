@@ -2,6 +2,7 @@
     "workbench.sideBar.location": "right",
     "workbench.iconTheme": "vscode-icon-theme",
     "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
     "workbench.colorCustomizations": {
         "editor.background": "#f3f3f3",
         "sideBar.background": "#eee",

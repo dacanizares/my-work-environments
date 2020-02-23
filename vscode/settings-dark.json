@@ -2,6 +2,7 @@
     "workbench.sideBar.location": "right",
     "workbench.iconTheme": "vscode-icon-theme",
     "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
     "files.hotExit": "off",
     "workbench.colorTheme": "Visual Studio Dark",
     "glassit.alpha": 230
