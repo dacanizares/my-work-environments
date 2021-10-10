@@ -12,7 +12,7 @@
     "editor.fontSize": 21,
     "editor.wordWrap": "on",    
     "window.zoomLevel": 1,
-    "glassit.alpha": 240,
+    "glassit.alpha": 220,
     "editor.fontFamily": "VT323, Consolas, 'Courier New', monospace",
     "scm.inputFontFamily": "VT323",
     "debug.console.fontFamily": "",
