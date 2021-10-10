@@ -4,9 +4,11 @@
 
 ## Custom Settings
 
-* Recommended: install the extension [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme).
-
-* Recommended: install the extension [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit).
+* Install the following extensions:
+  * [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme).
+  * [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit).
+  * [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui). Requires [Monkey Patch](https://marketplace.visualstudio.com/items?itemName=iocave.monkey-patch).
+  * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 * Press *ctrl + shift + p* (or *f1*)  and search for the option *Open Settings (JSON)*
 
@@ -20,17 +22,8 @@
 
   * Disable *editor mini-map*.
 
-## Some Extensions that I've installed
+  * Enable customized fonts for an old school style!
 
-* [Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
-* [.Net Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
-* [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme)
-* [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
-* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
-* [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
-* [Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
-* Optional: [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ## Github workflow
 
