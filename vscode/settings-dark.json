@@ -21,5 +21,8 @@
         "tab-title": "12px",
         "menu": "13px"
     },
-    "terminal.integrated.fontSize": 20
+    "terminal.integrated.fontSize": 20,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.excludeDirty": true,
+    "workbench.editor.limit.value": 7
 }
