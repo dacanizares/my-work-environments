@@ -11,7 +11,7 @@
 
 * Press *ctrl + shift + p* (or *f1*)  and search for the option *Open Settings (JSON)*
 
-* Paste the content of the file on this repo called *settings.json* (or *settings-dark.json* if you preffer to use a Dark Theme) on the *User Settings Side* (Right Side of the editor) and save. This step will do the following:
+* Paste the content of the file on this repo called *settings-dark.json* on the *User Settings Side* (Right Side of the editor) and save. This step will do the following:
 
   * Enable *VS Code Light* theme with custom colors (or *VS Code Dark* theme, respectively).
 
