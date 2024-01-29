@@ -9,20 +9,11 @@
     "window.zoomLevel": 1,
     "glassit.alpha": 240,
     "editor.fontFamily": "VT323, Consolas, 'Courier New', monospace",
-    "scm.inputFontFamily": "VT323",
-    "debug.console.fontFamily": "",
-    "customizeUI.font.monospace": "VT323",
-    "customizeUI.font.regular": "VT323",
-    "customizeUI.fontSizeMap": {
-        "13px": "16px",
-        "12px": "14px",
-        "monospace": "18px", 
-        "window-title": "12px",
-        "tab-title": "12px",
-        "menu": "13px"
-    },
+    "scm.inputFontFamily": "VT323, Consolas, 'Courier New', monospace",
+    "debug.console.fontFamily": "VT323, Consolas, 'Courier New', monospace",
     "terminal.integrated.fontSize": 20,
     "workbench.editor.limit.enabled": true,
     "workbench.editor.limit.excludeDirty": true,
-    "workbench.editor.limit.value": 7
+    "workbench.editor.limit.value": 7,
+    "window.titleBarStyle": "custom"
 }
