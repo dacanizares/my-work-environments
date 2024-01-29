@@ -7,7 +7,6 @@
 * Install the following extensions:
   * [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme).
   * [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit).
-  * [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui). Requires [Monkey Patch](https://marketplace.visualstudio.com/items?itemName=iocave.monkey-patch).
   * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 * Press *ctrl + shift + p* (or *f1*)  and search for the option *Open Settings (JSON)*
